@@ -1,8 +1,6 @@
 ---
 title: test-site-snipcart
 timezone: UTC
-url: ''
-snipcart_api_key: ''
 collections:
   posts:
     title: Posts
@@ -35,4 +33,6 @@ defaults:
     type: pages
   values:
     layout: page
+url: ''
+snipcart_api_key: ''
 permalink: pretty
