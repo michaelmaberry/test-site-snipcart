@@ -1,6 +1,8 @@
 ---
 title: test-site-snipcart
 timezone: UTC
+url: ''
+snipcart_api_key: ''
 collections:
   posts:
     title: Posts
